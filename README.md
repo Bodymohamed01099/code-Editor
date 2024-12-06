@@ -38,6 +38,5 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/react-code-editor.git
    cd react-code-editor
-- npm i 
-- npm run dev
-```
+   npm i 
+   npm run dev
